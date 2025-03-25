@@ -4,7 +4,7 @@
 - Gmail : amitanshulal1681@gmail.com
 - 📫 How to reach me : Github
 - My socials:
-    Instagram :
+    Instagram : https://www.instagram.com/amyzz.2502/
     Linkedin :
   
 

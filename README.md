@@ -2,7 +2,10 @@
 - 👀 I’m interested in programming, mathematics and music
 - 🌱 I’m currently learning programming and machine learning a bit
 - Gmail : amitanshulal1681@gmail.com
-- 📫 How to reach me : github
+- 📫 How to reach me : Github
+- My socials:
+    Instagram :
+    Linkedin :
   
 
 <!---

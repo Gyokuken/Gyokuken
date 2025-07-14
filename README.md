@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Machine learning and Web development**
 
-- 🌱 I’m currently learning **Web Development and guitar**
+- 🌱 I’m currently learning **Web Development and Music**
 
 - 📫 How to reach me **my socials are linked**
 
-- ⚡ Fun fact **Apple is a false fruit**
+- ⚡ Fun fact **I'm ambidextrous but hardly anyone knows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

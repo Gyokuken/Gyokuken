@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine learning and Web development**
 
-- 🌱 I’m currently learning **Web Development and Music**
+- 🌱 I’m currently learning **Music**
 
 - 📫 How to reach me **my socials are linked**
 
